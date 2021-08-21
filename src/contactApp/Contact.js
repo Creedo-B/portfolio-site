@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-        <div>
+        <div className='content__child-app'>
             <h1>Contact page</h1>
         </div>
     );
