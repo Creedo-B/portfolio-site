@@ -4,7 +4,7 @@ const Home = () => {
 
             <h1>Welcome to to my home page</h1>
 
-            <h2><i>This site is still under construction!</i></h2>
+            <h2><i className='italic'>This site is still under construction!</i></h2>
 
             <h2>Please select an app from the header</h2>
 
